@@ -32,7 +32,7 @@ text-decoration: none;
 <div id="header">
    <ul id="header_nav">
     <form action="search.php" method="get">
-      <a href="http://localhost/traveleasyindian/" style="font-family: 'Cookie', Helvetica Neue, Helvetica, Arial;font-size: 28px;">Travel Easy Indian</a>
+      <a href="." style="font-family: 'Cookie', Helvetica Neue, Helvetica, Arial;font-size: 28px;">Travel Easy Indian</a>
 
 	 </form>
    </ul>
